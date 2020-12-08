@@ -5,7 +5,6 @@ body {
 .full {
     position: relative;
     width: 100%;
-    min-height: 100vh;
     background: Url("https://matumoto1234.github.io/test_page/images/sample.jpg")center/cover;
 }
 
@@ -18,7 +17,8 @@ body {
     line-height: 1;
     font-size: 8vw;
     font-family: "Montserrat", sans-serif;
-    text-shadow: 10px 10px 0 #fff;
+    color: #fff;
+    text-shadow: 10px 10px 0 #aaa;
 }
 
 section {
